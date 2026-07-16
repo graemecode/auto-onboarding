@@ -1,0 +1,5 @@
+imports:
+  - "@auto/intern@latest/agents/intern.yaml"
+variables:
+  repoFullName: graemecode/auto-onboarding
+  githubConnection: github-graemecode
