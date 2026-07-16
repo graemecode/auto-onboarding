@@ -1,0 +1,5 @@
+imports:
+  - "@auto/engineering-tier@latest/agents/designer.yaml"
+variables:
+  repoFullName: graemecode/auto-onboarding
+  githubConnection: github-graemecode

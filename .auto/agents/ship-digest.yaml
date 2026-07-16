@@ -1,0 +1,4 @@
+imports:
+  - "@auto/daily-digest@latest/agents/ship-digest.yaml"
+variables:
+  repoFullName: graemecode/auto-onboarding

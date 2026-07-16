@@ -1,0 +1,5 @@
+imports:
+  - "@auto/workforce-optimization-consultant@latest/agents/workforce-optimizati\
+    on-consultant.yaml"
+variables:
+  repoFullName: graemecode/auto-onboarding

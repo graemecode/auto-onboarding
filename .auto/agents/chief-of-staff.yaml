@@ -1,0 +1,6 @@
+imports:
+  - "@auto/agent-fleet@latest/agents/chief-of-staff-onboarding.yaml"
+variables:
+  repoFullName: graemecode/auto-onboarding
+  githubConnection: github-graemecode
+  onboardingRunId: onbrun_3d669046-6d00-405c-b0a6-fddea16b3012
